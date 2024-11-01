@@ -124,6 +124,23 @@ body {
   bottom: 100px;
 }
 
+.block-one button {
+  border: none;
+  margin-top: 15px;
+  padding-bottom: 30px;
+}
+
+.block-one button a {
+  text-decoration: none;
+  color: #000000;
+  opacity: 50%;
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
 .main-shop-info {
   margin-top: 168px;
 }
